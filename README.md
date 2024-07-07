@@ -1,1 +1,2 @@
 # Stress-Detection-from-text-stream
+Developed a machine learning model to detect stress from text streams, such as social media posts and interviews. This aims to provide a scalable, cost-effective, and less intrusive alternative to traditional stress detection methods, offering real-time stress monitoring and intervention![image](https://github.com/prateektrivedi21/Stress-Detection-from-text-stream/assets/92620578/e2b99cb6-009d-46b2-a1e3-397c09bab6cf)
